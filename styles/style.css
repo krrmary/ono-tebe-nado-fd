@@ -1,8 +1,8 @@
 .header {
   display: grid;
-  grid-template-columns: 1fr 129px 1fr;
+  grid-template-columns: 1fr 136px 1fr;
   align-items: center;
-  padding: 93px 52px 95px 50px;
+  padding: 92px 50px 96px 50px;
   background-color: #fff;
 }
 
@@ -42,12 +42,13 @@
 
 .header_logo {
   display: block;
-  width: 129px;
+  width: 136px;
   height: 104px;
   justify-self: center;
 }
 
 .header_logo-image {
+  display: block;
   width: 100%;
 }
 
@@ -264,7 +265,7 @@
 }
 
 .about__logo-image {
-  padding: 67px 50px 62px 50px;
+  height: 114px;
   width: 100%;
 }
 
